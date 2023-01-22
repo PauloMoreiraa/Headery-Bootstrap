@@ -6,7 +6,10 @@
 
 Trabalho de Sítios Web do curso de Sistemas para Internet da Universidade Tecnológica Federal do Paraná (UTFPR).
 
-:rocket: Técnologias Utilizadas:
+## :rocket: Técnologias Utilizadas:
 - HTML
 - SASS
 - Bootstrap
+
+### :technologist: Autor:
+- <a href="https://github.com/PauloMoreiraa">Paulo Moreira</a>
